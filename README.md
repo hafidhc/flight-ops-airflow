@@ -45,6 +45,7 @@ Developed as a **Data Engineering portfolio project**, this repository focuses n
 The final output of this pipeline feeds into a visualization layer (e.g., Streamlit, Tableau, or Snowflake Dashboards) to monitor real-time flight metrics processed by the **Gold Layer**:
 
 <img width="2465" height="1153" alt="Image" src="https://github.com/user-attachments/assets/fe1f42ee-3119-4991-9b47-f3d6a9e31e57" />
+
 ### 📊 Key Metrics Monitored:
 
 - **Global Volume:** Real-time count of active flights and aircraft on the ground.
