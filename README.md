@@ -15,6 +15,8 @@ Developed as a **Data Engineering portfolio project**, this repository focuses n
 ---
 
 ## 🏗️ Architecture Overview
+<img width="741" height="311" alt="image" src="https://github.com/user-attachments/assets/c619002f-4fb9-4212-91e1-756617f86d03" />
+
 
 ### 🔄 Data Flow
 
